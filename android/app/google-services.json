@@ -1,0 +1,90 @@
+{
+  "project_info": {
+    "project_number": "173610014202",
+    "project_id": "fruits-hub-13a82",
+    "storage_bucket": "fruits-hub-13a82.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:173610014202:android:a39e353185668cded34043",
+        "android_client_info": {
+          "package_name": "com.example.fruits_dashboard"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "173610014202-30tpevd7osskekr02l5l41ud2h82ehao.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBSPT9PrQWwxGPXeV26XrwTeyZrarWDz4g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "173610014202-30tpevd7osskekr02l5l41ud2h82ehao.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "173610014202-4bd6lhqcjtkuspcv0vgkeqp5vu636qoq.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.souqApp"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:173610014202:android:3d39b1c7cec44ce8d34043",
+        "android_client_info": {
+          "package_name": "com.example.souq_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "173610014202-5g92ls1ufak5boliia7p43omobnqa6c5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.souq_app",
+            "certificate_hash": "64c751b7bfc9556ba9afe8c22e64acfaaf086298"
+          }
+        },
+        {
+          "client_id": "173610014202-30tpevd7osskekr02l5l41ud2h82ehao.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBSPT9PrQWwxGPXeV26XrwTeyZrarWDz4g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "173610014202-30tpevd7osskekr02l5l41ud2h82ehao.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "173610014202-4bd6lhqcjtkuspcv0vgkeqp5vu636qoq.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.souqApp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
