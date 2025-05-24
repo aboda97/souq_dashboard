@@ -41,7 +41,7 @@ class CustomTextFormField extends StatelessWidget {
 
       //    readOnly: readOnly,
       onSaved: onSaved,
-      maxLines: maxLines,
+      maxLines: obscureText ? 1 : maxLines,
 
       decoration: InputDecoration(
         filled: true,
