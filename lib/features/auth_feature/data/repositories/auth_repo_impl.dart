@@ -1,5 +1,5 @@
 import 'package:fruits_dashboard/core/services/supabase_service.dart';
-import 'package:fruits_dashboard/features/add_product_feature/domain/base_repositories/auth_base_repo.dart';
+import 'package:fruits_dashboard/features/auth_feature/domain/base_repositories/auth_base_repo.dart';
 
 class AuthRepoImpl implements AuthBaseRepo {
   final SupabaseService _supabase;

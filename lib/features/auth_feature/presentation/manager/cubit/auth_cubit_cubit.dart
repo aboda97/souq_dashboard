@@ -1,6 +1,6 @@
 import 'package:flutter_bloc/flutter_bloc.dart';
 import 'package:fruits_dashboard/core/services/supabase_service.dart';
-import 'package:fruits_dashboard/features/add_product_feature/domain/base_repositories/auth_base_repo.dart';
+import 'package:fruits_dashboard/features/auth_feature/domain/base_repositories/auth_base_repo.dart';
 import 'package:fruits_dashboard/features/auth_feature/presentation/manager/cubit/auth_cubit_state.dart';
 
 class AuthCubit extends Cubit<AuthStates> {

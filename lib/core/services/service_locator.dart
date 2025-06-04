@@ -1,5 +1,5 @@
 import 'package:fruits_dashboard/core/services/supabase_service.dart';
-import 'package:fruits_dashboard/features/add_product_feature/domain/base_repositories/auth_base_repo.dart';
+import 'package:fruits_dashboard/features/auth_feature/domain/base_repositories/auth_base_repo.dart';
 import 'package:fruits_dashboard/features/auth_feature/data/repositories/auth_repo_impl.dart';
 import 'package:fruits_dashboard/features/auth_feature/presentation/manager/cubit/auth_cubit_cubit.dart';
 import 'package:get_it/get_it.dart';
